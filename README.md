@@ -1,3 +1,5 @@
 # Startup
 
-ML model created in Python to predict the annual profit earned by the company based on the spending pattern and location.
+ML model created in Python to predict the annual profit earned by each company based on their spending pattern and location.
+
+
